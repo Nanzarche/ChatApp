@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E682C41-A619-47F1-B936-38E9E2798F70}|ChatAppApi.csproj|d:\\zc_working\\chatapi\\chatappapi\\controllers\\chatappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E682C41-A619-47F1-B936-38E9E2798F70}|ChatAppApi.csproj|solutionrelative:controllers\\chatappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E682C41-A619-47F1-B936-38E9E2798F70}|ChatAppApi.csproj|d:\\zc_working\\chatapi\\chatappapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E682C41-A619-47F1-B936-38E9E2798F70}|ChatAppApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E682C41-A619-47F1-B936-38E9E2798F70}|ChatAppApi.csproj|d:\\zc_working\\chatapi\\chatappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E682C41-A619-47F1-B936-38E9E2798F70}|ChatAppApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E682C41-A619-47F1-B936-38E9E2798F70}|ChatAppApi.csproj|d:\\zc_working\\chatapi\\chatappapi\\chatappapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1E682C41-A619-47F1-B936-38E9E2798F70}|ChatAppApi.csproj|solutionrelative:chatappapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\implementation\\chathubunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\interfaces\\ichatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\interfaces\\ichatappunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\implementation\\chatappunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E682C41-A619-47F1-B936-38E9E2798F70}|ChatAppApi.csproj|d:\\zc_working\\chatapi\\chatappapi\\models\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E682C41-A619-47F1-B936-38E9E2798F70}|ChatAppApi.csproj|solutionrelative:models\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\models\\chatmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\models\\chatappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\repositories\\chatappbaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\models\\mapping\\chatmessagesmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\models\\mapping\\chatroomsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\models\\mapping\\chatusersmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\models\\chatrooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC3B335-55F6-442F-AB46-C798D8A0DBF3}|..\\Data\\Data.csproj|d:\\zc_working\\chatapi\\data\\models\\chatusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 55,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChatClient.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Interfaces\\IChatClient.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Interfaces\\IChatClient.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Interfaces\\IChatClient.cs",
+              "RelativeToolTip": "..\\Data\\Interfaces\\IChatClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:50:49.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\Models\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Models\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\Models\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Models\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:00:48.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IChatAppUnitOfWork.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Interfaces\\IChatAppUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Interfaces\\IChatAppUnitOfWork.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Interfaces\\IChatAppUnitOfWork.cs",
+              "RelativeToolTip": "..\\Data\\Interfaces\\IChatAppUnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:37:47.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatAppContext.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Models\\ChatAppContext.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Models\\ChatAppContext.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Models\\ChatAppContext.cs",
+              "RelativeToolTip": "..\\Data\\Models\\ChatAppContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:49:21.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatMessages.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Models\\ChatMessages.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Models\\ChatMessages.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Models\\ChatMessages.cs",
+              "RelativeToolTip": "..\\Data\\Models\\ChatMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:55:29.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:10:32.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:07:52.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatAppController.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\Controllers\\ChatAppController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatAppController.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\Controllers\\ChatAppController.cs",
+              "RelativeToolTip": "Controllers\\ChatAppController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:10:04.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHubUnitOfWork.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Implementation\\ChatHubUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Implementation\\ChatHubUnitOfWork.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Implementation\\ChatHubUnitOfWork.cs",
+              "RelativeToolTip": "..\\Data\\Implementation\\ChatHubUnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:59:53.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatAppApi.http",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\ChatAppApi.http",
+              "RelativeDocumentMoniker": "ChatAppApi.http",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\ChatAppApi\\ChatAppApi.http",
+              "RelativeToolTip": "ChatAppApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-14T09:15:04.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "..\\Data\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:30:32.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatAppUnitOfWorks.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Implementation\\ChatAppUnitOfWorks.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Implementation\\ChatAppUnitOfWorks.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Implementation\\ChatAppUnitOfWorks.cs",
+              "RelativeToolTip": "..\\Data\\Implementation\\ChatAppUnitOfWorks.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:39:40.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatAppBaseRepository.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Repositories\\ChatAppBaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Repositories\\ChatAppBaseRepository.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Repositories\\ChatAppBaseRepository.cs",
+              "RelativeToolTip": "..\\Data\\Repositories\\ChatAppBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:30:31.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatMessagesMap.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Models\\Mapping\\ChatMessagesMap.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Models\\Mapping\\ChatMessagesMap.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Models\\Mapping\\ChatMessagesMap.cs",
+              "RelativeToolTip": "..\\Data\\Models\\Mapping\\ChatMessagesMap.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:04:48.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatRoomsMap.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Models\\Mapping\\ChatRoomsMap.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Models\\Mapping\\ChatRoomsMap.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Models\\Mapping\\ChatRoomsMap.cs",
+              "RelativeToolTip": "..\\Data\\Models\\Mapping\\ChatRoomsMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:00:50.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChatUsersMap.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Models\\Mapping\\ChatUsersMap.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Models\\Mapping\\ChatUsersMap.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Models\\Mapping\\ChatUsersMap.cs",
+              "RelativeToolTip": "..\\Data\\Models\\Mapping\\ChatUsersMap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:56:40.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatRooms.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Models\\ChatRooms.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Models\\ChatRooms.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Models\\ChatRooms.cs",
+              "RelativeToolTip": "..\\Data\\Models\\ChatRooms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:54:58.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatUsers.cs",
+              "DocumentMoniker": "D:\\ZC_Working\\ChatApi\\Data\\Models\\ChatUsers.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Models\\ChatUsers.cs",
+              "ToolTip": "D:\\ZC_Working\\ChatApi\\Data\\Models\\ChatUsers.cs",
+              "RelativeToolTip": "..\\Data\\Models\\ChatUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:54:08.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

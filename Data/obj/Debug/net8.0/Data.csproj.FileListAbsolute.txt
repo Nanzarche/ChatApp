@@ -1,0 +1,12 @@
+D:\ZC_Working\ChatApi\Data\bin\Debug\net8.0\Data.deps.json
+D:\ZC_Working\ChatApi\Data\bin\Debug\net8.0\Data.dll
+D:\ZC_Working\ChatApi\Data\bin\Debug\net8.0\Data.pdb
+D:\ZC_Working\ChatApi\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+D:\ZC_Working\ChatApi\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZC_Working\ChatApi\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+D:\ZC_Working\ChatApi\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+D:\ZC_Working\ChatApi\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+D:\ZC_Working\ChatApi\Data\obj\Debug\net8.0\Data.dll
+D:\ZC_Working\ChatApi\Data\obj\Debug\net8.0\refint\Data.dll
+D:\ZC_Working\ChatApi\Data\obj\Debug\net8.0\Data.pdb
+D:\ZC_Working\ChatApi\Data\obj\Debug\net8.0\ref\Data.dll
